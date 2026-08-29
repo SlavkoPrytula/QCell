@@ -20,13 +20,13 @@
     <a href="https://scholar.google.com/citations?user=IOuDrrEAAAAJ&hl=en">Dmytro Fishman</a><sup>1,4,5</sup>
   </span>
   <div class="publication-authors">
-    <sub>
+    <small>
     <span class="author-block"><sup>1</sup>Institute of Computer Science, University of Tartu, Tartu, Estonia</span><br>
     <span class="author-block"><sup>2</sup>Faculty of Applied Sciences, Ukrainian Catholic University, Lviv, Ukraine</span><br>
     <span class="author-block"><sup>3</sup>Department of Electronic Engineering, Micro- and Biomedical Electronics, Igor Sikorsky Kyiv Polytechnic Institute, Kyiv, Ukraine</span><br>
     <span class="author-block"><sup>4</sup>STACC OÜ, Tartu, Estonia</span><br>
     <span class="author-block"><sup>5</sup>Better Medicine OÜ, Tartu, Estonia</span>
-    </sub>
+    </small>
   </div>
 </div>
 
