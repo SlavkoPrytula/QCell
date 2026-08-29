@@ -1,4 +1,5 @@
 <h1 align="center">QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation</h1>
+<h3 align="center">BMVC 2026</h3>
 
 <div align="center">
 

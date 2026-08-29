@@ -72,6 +72,17 @@ body {
     font-size: 18px !important;
 }
 
+.publication-links .button.is-unavailable,
+.publication-links .button.is-unavailable:hover,
+.publication-links .button.is-unavailable:focus {
+    opacity: 0.3;
+    filter: grayscale(1);
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+    user-select: none;
+}
+
 .teaser .subtitle {
     font-size: 22px !important;
 }
