@@ -11,7 +11,7 @@
 
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
   <span class="author-block">
-    <a href="https://scholar.google.com/citations?user=RLf-ytQAAAAJ&hl">Yaroslav Prytula</a><sup>1,2</sup>
+    <a href="https://slavkoprytula.github.io/">Yaroslav Prytula</a><sup>1,2</sup>
   </span> &nbsp;|&nbsp;
   <span class="author-block">
     <a href="https://scholar.google.com/citations?user=L5CKTZoAAAAJ&hl=en">Anton Popov</a><sup>2,3</sup>
@@ -19,12 +19,14 @@
   <span class="author-block">
     <a href="https://scholar.google.com/citations?user=IOuDrrEAAAAJ&hl=en">Dmytro Fishman</a><sup>1,4,5</sup>
   </span>
-  <div class="is-size-5 publication-authors">
+  <div class="publication-authors">
+    <sub>
     <span class="author-block"><sup>1</sup>Institute of Computer Science, University of Tartu, Tartu, Estonia</span><br>
     <span class="author-block"><sup>2</sup>Faculty of Applied Sciences, Ukrainian Catholic University, Lviv, Ukraine</span><br>
     <span class="author-block"><sup>3</sup>Department of Electronic Engineering, Micro- and Biomedical Electronics, Igor Sikorsky Kyiv Polytechnic Institute, Kyiv, Ukraine</span><br>
     <span class="author-block"><sup>4</sup>STACC OÜ, Tartu, Estonia</span><br>
     <span class="author-block"><sup>5</sup>Better Medicine OÜ, Tartu, Estonia</span>
+    </sub>
   </div>
 </div>
 
