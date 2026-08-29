@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "The QCell citation is still being finalized. Please check back for the final publication citation."
+title: "QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation"
+type: software
+authors:
+  - family-names: Prytula
+    given-names: Yaroslav
+    email: yaroslav.prytula@ut.ee
+    affiliation: "Institute of Computer Science, University of Tartu; Faculty of Applied Sciences, Ukrainian Catholic University"
+  - family-names: Popov
+    given-names: Anton
+    email: a.popov@ucu.edu.ua
+    affiliation: "Faculty of Applied Sciences, Ukrainian Catholic University; Department of Electronic Engineering, Micro- and Biomedical Electronics, Igor Sikorsky Kyiv Polytechnic Institute"
+  - family-names: Fishman
+    given-names: Dmytro
+    email: dmytro.fishman@ut.ee
+    affiliation: "Institute of Computer Science, University of Tartu; STACC OÜ; Better Medicine OÜ"
+repository-code: "https://github.com/SlavkoPrytula/QCell"
+url: "https://slavkoprytula.github.io/QCell/"
+abstract: >-
+  QCell is a query-based model for overlapping cell instance segmentation that
+  combines instance recombination with contrastive query alignment.
+keywords:
+  - instance segmentation
+  - cell instance segmentation
+  - amodal instance segmentation
+  - overlapping cells
+  - microscopy image analysis
+  - query-based segmentation
+  - DETR-style segmentation
+  - contrastive learning
+  - biomedical image analysis
+# TODO: Add the final BMVC 2026 preferred-citation when publication details are available.
