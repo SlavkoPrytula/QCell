@@ -6,7 +6,7 @@
 <div align="center">
 
 ![Conference](https://img.shields.io/badge/BMVC-2026-blue)
-![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-brightgreen)](https://arxiv.org/abs/2608.29253)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Revvity--25-pink)](https://huggingface.co/datasets/YaroslavPrytula/Revvity-25)
 [![Project Webpage](https://img.shields.io/badge/Project-Webpage-%23fc4d5d)](https://slavkoprytula.github.io/QCell/)
 
@@ -198,7 +198,15 @@ The source-code license will be published with the code release.
 If you use QCell in your research, please cite:
 
 ```bibtex
-<TODO>
+@misc{prytula2026qcellrecombiningaligningcell,
+  title        = {QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation},
+  author       = {Yaroslav Prytula and Anton Popov and Dmytro Fishman},
+  year         = {2026},
+  eprint       = {2608.29253},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url          = {https://arxiv.org/abs/2608.29253}
+}
 ```
 
 ---
@@ -217,7 +225,7 @@ The authors acknowledge the support of the European Union and the Estonian Resea
 
 ## Resources
 
-📄 Paper: coming soon<br>
+📄 Paper: [arXiv:2608.29253](https://arxiv.org/abs/2608.29253)<br>
 🤗 Dataset: [Revvity-25](https://huggingface.co/datasets/YaroslavPrytula/Revvity-25)<br>
 ⭐ GitHub: [SlavkoPrytula/QCell](https://github.com/SlavkoPrytula/QCell)<br>
 🌐 Project page: [slavkoprytula.github.io/QCell](https://slavkoprytula.github.io/QCell/)
